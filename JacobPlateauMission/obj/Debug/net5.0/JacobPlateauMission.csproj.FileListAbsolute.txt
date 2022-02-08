@@ -1,0 +1,16 @@
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\JacobPlateauMission.exe
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\JacobPlateauMission.deps.json
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\JacobPlateauMission.runtimeconfig.json
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\JacobPlateauMission.runtimeconfig.dev.json
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\JacobPlateauMission.dll
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\ref\JacobPlateauMission.dll
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\bin\Debug\net5.0\JacobPlateauMission.pdb
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.csproj.AssemblyReference.cache
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.AssemblyInfoInputs.cache
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.AssemblyInfo.cs
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.csproj.CoreCompileInputs.cache
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.dll
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\ref\JacobPlateauMission.dll
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.pdb
+C:\Users\yakup.demircali\Desktop\Jacob\Interview\JacobPlateauMission\obj\Debug\net5.0\JacobPlateauMission.genruntimeconfig.cache
